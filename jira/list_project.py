@@ -26,7 +26,7 @@ payload = json.dumps({
   "projectTypeKey": "business",
   "projectTemplateKey": "com.atlassian.jira-core-project-templates:jira-core-simplified-task-tracking",
   "description": "Creating my first project via Python",
-  "leadAccountId": "712020:c3830646-a8ed-413a-9b79-ca3ab3744c49",
+  "leadAccountId": "accoutnid",
   "assigneeType": "PROJECT_LEAD"
 })
 
